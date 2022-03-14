@@ -23,7 +23,6 @@ class TestAfterbefore {
 	Assertions.assertEquals("Up","Up");
 	System.out.println(" before All");
 	}
-
 	@BeforeEach
 	public void testSum()
 	{
